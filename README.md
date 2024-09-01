@@ -9,7 +9,7 @@ Nome: Jeffrey de Souza | RA: 1750895
 
 ## 1. Introdução
 
-Este projeto faz parte da disciplina de Arquitetura de Software ministrada pelo professor [Nome do Professor]. O objetivo é realizar um estudo de caso, documentação, e mapeamento de requisitos e processos do sistema MapOS, um software open-source desenvolvido no Brasil e utilizado principalmente por pequenas empresas e oficinas para gestão de ordens de serviço, controle de estoque e gestão de clientes.
+Este projeto faz parte da disciplina de Arquitetura de Software. O objetivo é realizar um estudo de caso, documentação, e mapeamento de requisitos e processos do sistema MapOS, um software open-source desenvolvido no Brasil e utilizado principalmente por pequenas empresas e oficinas para gestão de ordens de serviço, controle de estoque e gestão de clientes.
 
 O MapOS foi escolhido por sua arquitetura relativamente simples, mas suficientemente estruturada para um estudo detalhado. Além disso, sua popularidade e uso em produção por várias empresas brasileiras fornecem um contexto relevante para propor melhorias que possam ser aplicadas em ambientes reais.
 
