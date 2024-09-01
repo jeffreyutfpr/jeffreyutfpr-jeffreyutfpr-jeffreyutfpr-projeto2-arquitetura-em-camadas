@@ -1,7 +1,5 @@
-# jeffreyutfpr-jeffreyutfpr-jeffreyutfpr-projeto2-arquitetura-em-camadas
+# jeffreyutfpr-projeto2-arquitetura-em-camadas
 Projeto 2 da disciplina "Arquitetura de Software - ES46A".
-
-# projeto2-arquitetura-em-camadas
 
 # Projeto 2 - Estudo de Caso: Análise e Proposta de Melhoria do MapOS
 
